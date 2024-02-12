@@ -1,0 +1,1 @@
+We used publically-available datasets from https://www.cs.cornell.edu/~arb/data/ to test our code. The tensor-methods-for-hypergraphs-tutorial.ipybnb file walks you how to download the data -- any dataset with "cat-edge" as a prefix from that webpage should immediately work with our parsers.
