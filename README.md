@@ -2,11 +2,15 @@ This repository contains implementations of tensor methods for general (nonunifo
 
 If you use this code, please cite
 
-@article{aksoy2023scalable,
+@article{aksoy2024scalable,
   title={Scalable tensor methods for nonuniform hypergraphs},
   author={Aksoy, Sinan G and Amburg, Ilya and Young, Stephen J},
-  journal={arXiv preprint arXiv:2306.17825},
-  year={2023}
+  journal={SIAM Journal on Mathematics of Data Science},
+  volume={6},
+  number={2},
+  pages={481--503},
+  year={2024},
+  publisher={SIAM}
 }
 
 The hgx, hnx, simplehypergraphs, and xgi folders contain code that will be embeded in the respective hypergraph analytics libraries ([HypergraphX](https://hypergraphx.readthedocs.io/en/latest/#) (hgx), [HyperNetX](https://pnnl.github.io/HyperNetX/) (hnx), [SimpleHypergraphs.jl](https://pszufe.github.io/SimpleHypergraphs.jl/stable/) (simplehypergraphs), and [CompleXGroupInteractions](https://xgi.readthedocs.io/en/stable/) (xgi)).
